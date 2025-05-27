@@ -2,8 +2,6 @@
 0.0.0.0 acache.ilbe.com
 0.0.0.0 acceptable.a-ads.com
 0.0.0.0 action.adoffice.11st.co.kr
-0.0.0.0 ad*.thisisgame.com
-0.0.0.0 ad*.wisenut.co.kr
 0.0.0.0 ad-api.band.us
 0.0.0.0 ad-api.enuri.info
 0.0.0.0 ad-creative.pstatic.net
@@ -81,14 +79,12 @@
 0.0.0.0 adg.dawin.tv
 0.0.0.0 adgirl.yes24.com
 0.0.0.0 adimage.hankookilbo.com
-0.0.0.0 adimg*.search.naver.net
 0.0.0.0 adimg.cgv.co.kr
 0.0.0.0 adimg.nate.com
 0.0.0.0 adimg.newdaily.co.kr
 0.0.0.0 adm.smartmediarep.com
 0.0.0.0 adn.admixer.co.kr
 0.0.0.0 adreal.dt.co.kr
-0.0.0.0 ads-*.v.ssp.yahoo.com
 0.0.0.0 ads-partners.coupang.com
 0.0.0.0 ads.adaptv.advertising.com
 0.0.0.0 ads.admaru.com
@@ -169,7 +165,6 @@
 0.0.0.0 finead.o00.kr
 0.0.0.0 gwx.adnext.co
 0.0.0.0 i.keezip.com
-0.0.0.0 iad-*.braze.com
 0.0.0.0 iadsdk.apple.com
 0.0.0.0 imasdk.googleapis.com
 0.0.0.0 img.side.mythiell.com
